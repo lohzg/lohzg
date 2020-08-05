@@ -12,6 +12,7 @@
 
 [<img align="left" alt="lzguangzl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg"/>][freecodecamp]
 <br />
 
 ### Languages and Tools:
@@ -28,14 +29,15 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />][eclipse]
 <br />
+<br />
 
 ---
 
 <img align="left" alt="lzguangzl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lzguangzl&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/lzguangzl
-[instagram]: https://instagram.com/lzguangzl
-[facebook]: https://www.facebook.com/lzguangzl/
+[facebook]: https://www.facebook.com/lzguangzl
+[freecodecamp]: https://www.freecodecamp.org/lzguangzl
 [java]: https://www.java.com/en/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
