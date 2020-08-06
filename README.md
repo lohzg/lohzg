@@ -1,4 +1,12 @@
+
 ### Hi there, I am Zhen Guang - aka [lzguangzl](https://github.com/lzguangzl) 😊
+
+<a href="https://github.com/lzguangzl">
+  <img align="left" alt="lzguangzl Profile Views" src="https://komarev.com/ghpvc/?username=lzguangzl&color=blue&style=flat-square" />
+</a>
+<a href="https://github.com/lzguangzl">
+  <img align="left" alt="lzguangzl GitHub Follows" src="https://img.shields.io/github/followers/lzguangzl?label=Follow&style=social" />
+</a>
 
 ## I am a 🧑‍🎓 Graduate and 🧑‍💻 Developer!
 
@@ -10,14 +18,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lzguangzl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg"/>][freecodecamp]
+[<img align="left" alt="lzguangzl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="lzguangzl | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />][freecodecamp]
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -33,10 +42,9 @@
 
 ---
 
-<img align="left" alt="lzguangzl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lzguangzl&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/lzguangzl
 [facebook]: https://www.facebook.com/lzguangzl
+[github]: https://github.com/lzguangzl
 [freecodecamp]: https://www.freecodecamp.org/lzguangzl
 [java]: https://www.java.com/en/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
