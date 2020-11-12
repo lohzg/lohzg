@@ -12,7 +12,7 @@
 ## I am a 🧑‍🎓 Graduate and 🧑‍💻 Developer!
 
 - 👨‍💻 I'm currently learning everything 😂
-- 💼 I'm currently working at TCS
+- 💼 I'm currently working at Axisoft
 - 📚 Motto: Learning never stops
 - 🥅 2020 Goal: Build up my portfolio in GitHub
 - 🏀 Fun fact: I love to play basketball and squash
