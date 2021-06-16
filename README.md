@@ -1,5 +1,5 @@
 
-## Hi there, I am Zhen Guang - aka [lzguangzl](https://github.com/lzguangzl) 😊
+## Hi there, I am Zhen Guang - aka [lzguangzl](https://github.com/lzguangzl)
 
 <a href="https://github.com/lzguangzl">
   <img align="left" alt="lzguangzl | Profile Views" src="https://komarev.com/ghpvc/?username=lzguangzl&color=blue&style=flat-square" />
