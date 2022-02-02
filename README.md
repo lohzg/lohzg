@@ -9,12 +9,10 @@
 </a>
 <br />
 
-## I am a 🧑‍🎓 Graduate and 🧑‍💻 Developer!
+## I am a 🧑‍🎓 🧑‍💻 Developer!
 
-- 👨‍💻 I'm currently learning everything 😂
+- 👨‍💻 Adapting and constantly learning
 - 💼 I'm currently working at Axisoft
-- 📚 Motto: Learning never stops
-- 🥅 2021 Goal: Build up my portfolio in GitHub
 - 🏀 Fun fact: I love to play basketball and squash
 
 ### Connect with me:
