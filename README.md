@@ -12,7 +12,7 @@
 ## I am a 🧑‍🎓 🧑‍💻 Developer!
 
 - 👨‍💻 Adapting and constantly learning
-- 💼 I'm currently working at Axisoft
+- 💼 Currently working at Axisoft
 - 🏀 Fun fact: I love to play basketball and squash
 
 ### Connect with me:
