@@ -40,11 +40,11 @@
 <br />
 
 ---
-<a href="https://github.com/lzguangzl">
-  <img align="left" alt="lzguangzl | Github Stats" src="https://github-readme-stats.vercel.app/api?username=lzguangzl&theme=dark&show_icons=true"/>
+<a href="https://github.com/zennoi">
+  <img align="left" alt="zennoi | Github Stats" src="https://github-readme-stats.vercel.app/api?username=zennoi&theme=dark&show_icons=true"/>
 </a>
-<a href="https://github.com/lzguangzl">
-   <img align="left" alt="lzguangzl | Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lzguangzl&theme=dark"/>
+<a href="https://github.com/zennoi">
+   <img align="left" alt="zennoi | Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=zennoi&theme=dark"/>
 </a>
 
 [twitter]: https://twitter.com/lzguangzl
