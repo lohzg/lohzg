@@ -1,11 +1,11 @@
 
-## Hi there, I am [Zennoi](https://github.com/lzguangzl)
+## Hi there, I am [Zennoi](https://github.com/zennoi)
 
-<a href="https://github.com/lzguangzl">
-  <img align="left" alt="lzguangzl | Profile Views" src="https://komarev.com/ghpvc/?username=lzguangzl&color=blue&style=flat-square" />
+<a href="https://github.com/zennoi">
+  <img align="left" alt="zennoi | Profile Views" src="https://komarev.com/ghpvc/?username=lzguangzl&color=blue&style=flat-square" />
 </a>
-<a href="https://github.com/lzguangzl">
-  <img align="left" alt="lzguangzl | GitHub Follows" src="https://img.shields.io/github/followers/lzguangzl?label=Follow&style=social" />
+<a href="https://github.com/zennoi">
+  <img align="left" alt="zennoi | GitHub Follows" src="https://img.shields.io/github/followers/lzguangzl?label=Follow&style=social" />
 </a>
 <br />
 
@@ -16,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lzguangzl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lzguangzl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="lzguangzl | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="lzguangzl | FreeCodeCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />][freecodecamp]
+[<img align="left" alt="zennoi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="zennoi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="zennoi | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="zennoi | FreeCodeCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />][freecodecamp]
 <br />
 
 ### Languages and Tools:
@@ -48,7 +48,7 @@
 
 [twitter]: https://twitter.com/lzguangzl
 [facebook]: https://www.facebook.com/lzguangzl
-[github]: https://github.com/lzguangzl
+[github]: https://github.com/zennoi
 [freecodecamp]: https://www.freecodecamp.org/lzguangzl
 [java]: https://www.java.com/en/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
