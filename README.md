@@ -12,7 +12,7 @@
 ## I am a 🧑‍🎓 🧑‍💻 Developer!
 
 - 👨‍💻 Adapting and constantly learning
-- 🏀 Love to play basketball and squash
+- 🏀 Love to play basketball, squash and run
 
 ### Connect with me:
 
