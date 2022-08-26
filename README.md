@@ -1,11 +1,11 @@
 
-## Hi there, I am [Zennoi](https://github.com/zennoi)
+## Hi there, I am [Zensh](https://github.com/Zensh)
 
-<a href="https://github.com/zennoi">
-  <img align="left" alt="zennoi | Profile Views" src="https://komarev.com/ghpvc/?username=lzguangzl&color=blue&style=flat-square" />
+<a href="https://github.com/Zensh">
+  <img align="left" alt="Zensh | Profile Views" src="https://komarev.com/ghpvc/?username=lzguangzl&color=blue&style=flat-square" />
 </a>
-<a href="https://github.com/zennoi">
-  <img align="left" alt="zennoi | GitHub Follows" src="https://img.shields.io/github/followers/lzguangzl?label=Follow&style=social" />
+<a href="https://github.com/Zensh">
+  <img align="left" alt="Zensh | GitHub Follows" src="https://img.shields.io/github/followers/lzguangzl?label=Follow&style=social" />
 </a>
 <br />
 
