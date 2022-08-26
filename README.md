@@ -39,16 +39,16 @@
 <br />
 
 ---
-<a href="https://github.com/zennoi">
-  <img align="left" alt="zennoi | Github Stats" src="https://github-readme-stats.vercel.app/api?username=zennoi&theme=dark&show_icons=true"/>
+<a href="https://github.com/datatics">
+  <img align="left" alt="datatics | Github Stats" src="https://github-readme-stats.vercel.app/api?username=datatics&theme=dark&show_icons=true"/>
 </a>
-<a href="https://github.com/zennoi">
-   <img align="left" alt="zennoi | Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=zennoi&theme=dark"/>
+<a href="https://github.com/datatics">
+   <img align="left" alt="datatics | Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=datatics&theme=dark"/>
 </a>
 
 [twitter]: https://twitter.com/lzguangzl
 [facebook]: https://www.facebook.com/lzguangzl
-[github]: https://github.com/zennoi
+[github]: https://github.com/datatics
 [freecodecamp]: https://www.freecodecamp.org/lzguangzl
 [java]: https://www.java.com/en/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
