@@ -1,14 +1,16 @@
 
-## Hi there, I am [Zhen Guang](https://github.com/datatics)
+## Hi there, I am [Zhen Guang](https://github.com/lohzg)
 
-<a href="https://github.com/datatics">
+<a href="https://github.com/lohzg">
   <img align="left" alt="lohzg | Profile Views" src="https://komarev.com/ghpvc/?username=lohzg&color=blue&style=flat-square" />
 </a>
-<a href="https://github.com/datatics">
+<a href="https://github.com/lohzg">
   <img align="left" alt="lohzg | GitHub Follows" src="https://img.shields.io/github/followers/lohzg?label=Follow&style=social" />
 </a>
+
 <br />
 <br />
+
 <!-- ## I am a Analyst 🧑‍🎓 🧑‍💻! -->
 
 - 👨‍💻 Adapting and learning
