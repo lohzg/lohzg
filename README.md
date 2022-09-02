@@ -9,7 +9,7 @@
 </a>
 <br />
 
-## I am a Analyst 🧑‍🎓 🧑‍💻!
+<!-- ## I am a Analyst 🧑‍🎓 🧑‍💻! -->
 
 - 👨‍💻 Adapting and learning
 - 🏀 Love to hike, run, basketball and squash
