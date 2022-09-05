@@ -44,17 +44,17 @@
 <br />
 
 ---
-<a href="https://github.com/datatics">
+<a href="https://github.com/lohgzg">
   <img align="left" alt="lohzg | Github Stats" src="https://github-readme-stats.vercel.app/api?username=lohzg&theme=dark&show_icons=true"/>
 </a>
-<a href="https://github.com/datatics">
+<a href="https://github.com/lohgzg">
    <img align="left" alt="lohzg | Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohzg&theme=dark"/>
 </a>
 
 [twitter]: https://twitter.com/lzguangzl
 [facebook]: https://www.facebook.com/lzguangzl
 [github]: https://github.com/lohzg
-[freecodecamp]: https://www.freecodecamp.org/lzguangzl
+[freecodecamp]: https://www.freecodecamp.org/lohzg
 [java]: https://www.java.com/en/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
